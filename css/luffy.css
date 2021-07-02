@@ -1,0 +1,18 @@
+/* 루피 */
+#luffy {
+    z-index: 3;
+    right: -27%;
+    bottom: -3%;
+}
+
+#luffy-text1 {
+    z-index: 2;
+    left: 0%;
+    top: 20%;
+}
+
+#luffy-text2 {
+    z-index: 4;
+    left: 77%;
+    top: 8%;
+}

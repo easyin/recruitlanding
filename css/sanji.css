@@ -1,0 +1,19 @@
+#sanji {
+    z-index: 3;
+    height: 80%;width:101%;
+    left: -31%;
+    bottom: 5%;
+
+}
+
+#sanji-text1 {
+    z-index: 2;
+    left: 30%;
+    top: 5%;
+}
+
+#sanji-text2 {
+    z-index: 4;
+    left: 1%;
+    top: 1%;
+}

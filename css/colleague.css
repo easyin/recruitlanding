@@ -1,0 +1,53 @@
+.colleague {
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/six/black.png");
+    background-size: cover;
+}
+
+#dream-text {
+    z-index: 3;
+    width: 50%;
+    height: 30%;
+
+    top: 36%;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+#dream-text2 {
+    z-index: 6;
+    width: 50%;
+    height: 30%;
+
+    top: 50%;
+    left: 25%;
+    transform: translateY(-50%);
+}
+
+#sky {
+    z-index: 4;
+    width: 100%;
+    height: 100%;
+
+    left: 0%;
+
+}
+
+#partner {
+    z-index: 5;
+    width: 100%;
+    height: 100%;
+
+    left: 50%;
+
+    transform: translateX(-50%);
+    animation: background-move 1s linear;
+}
+
+@keyframes background-open {
+    0%   { transform: scale(1) }
+    100%  { transform: scale(0) }
+}

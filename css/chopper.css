@@ -1,0 +1,17 @@
+#chopper {
+    z-index: 3;
+    right: -30%;
+    bottom: -5%;
+}
+
+#chopper-text1 {
+    z-index: 2;
+    left: 0%;
+    top: 22%;
+}
+
+#chopper-text2 {
+    z-index: 4;
+    left: 78%;
+    top: 2%;
+}

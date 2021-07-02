@@ -1,0 +1,54 @@
+
+#g_one {
+    z-index: 1;
+    width: 100%;
+    height: 10%;
+    left: 0%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#g_two {
+    z-index: 2;
+    width: 10%;
+    height: 13%;
+
+    top: 7%;
+    left: 45%;
+
+    transform: translateX(-50%);
+}
+
+#g_three {
+    z-index: 3;
+    width: 10%;
+    height: 0%;
+
+    top: 65%;
+    left: 50%;
+
+    transform: translateX(-50%);
+}
+
+#g_four {
+    z-index: 4;
+    width: 12%;
+    height: 20%;
+
+    top: 65%;
+    left: 15%;
+
+    transform: translateX(-50%);
+}
+
+#g_five {
+    z-index: 5;
+    width: 2%;
+    height: 20%;
+
+    top: 42%;
+    left: 52%;
+
+    transform: translateX(-50%);
+}
+    
